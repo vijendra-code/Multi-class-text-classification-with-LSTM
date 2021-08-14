@@ -17,5 +17,10 @@ This notbook describes a case study of multi-class text classfication on Consume
 **Task:**
 In the task, given set of features (text-complaint, cateogrical features, numerical feature), we want to build a model to predict the category of the complaint.
 
+
+**Architecture of the Model**
+1) This is a multi-input model.
+2) pre-trained glove vectors (100d) are used for the text features.
+
 ![image](https://user-images.githubusercontent.com/61385211/129458058-6bf620d2-2fd9-4af2-9007-b862aaf54452.png)
 
